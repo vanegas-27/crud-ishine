@@ -1,0 +1,28 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    list-style:none;
+}
+
+button a{
+    color:#fff;
+}
+
+.title-home{
+    text-align: center;
+}
+
+#container-form{
+    height: 60vh;
+    width: 100%;
+    margin: 0px;
+    
+}
+
+.box{
+    width: 80%;
+    background-color: aliceblue;
+    padding: 20px 4rem;
+    margin: 0px auto;
+}
